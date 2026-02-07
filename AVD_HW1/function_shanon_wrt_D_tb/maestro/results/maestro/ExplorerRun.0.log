@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Feb  6 00:10:16 2026 
+Best design point: 1
+Design specs: 
+	AVD_HW1_function_tb_1	corner	Nominal - 
+	IDC("/I0/Vdd")		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Fri Feb  6 00:10:39 2026 

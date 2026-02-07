@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Feb  3 02:02:00 2026 
+Best design point: 1
+Design specs: 
+	AVD_HW1_mux_2_1_tb_1	corner	Nominal - 
+	A_fall_Out_rise		2.054n
+	B_rise_Out_fall		55.5p
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Tue Feb  3 02:02:24 2026 
