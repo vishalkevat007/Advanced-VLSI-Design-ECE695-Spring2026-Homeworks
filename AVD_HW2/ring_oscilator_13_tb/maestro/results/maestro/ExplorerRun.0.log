@@ -1,0 +1,16 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Feb 23 13:31:51 2026 
+Best design point: 1
+Design specs: 
+	AVD_HW2_ring_oscilator_13_tb_1	corner	Nominal - 
+	timeperiod		22.45n
+	frequency		44.54M
+	n1_n2_tphl		819.1p
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Mon Feb 23 13:32:12 2026 

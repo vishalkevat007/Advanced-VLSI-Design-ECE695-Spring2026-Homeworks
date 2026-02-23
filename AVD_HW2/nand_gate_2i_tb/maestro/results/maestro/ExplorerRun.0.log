@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Feb 20 02:29:10 2026 
+Best design point: 1
+Design specs: 
+	Project_nand_gate_2i_tb_1	corner	Nominal - 
+	tphl_A_rises_Out_falls		31.49p
+	tplh_A_falls_Out_rises		31.35p
+	rise_time		45.7p
+	fall_time		45.71p
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Fri Feb 20 02:29:31 2026 

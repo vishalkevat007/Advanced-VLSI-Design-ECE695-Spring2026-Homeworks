@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Feb 20 02:14:35 2026 
+Best design point: 1
+Design specs: 
+	Project_inverter_tb_1	corner	Nominal - 
+	tplh_In_falls_Out_rises		29.42p
+	tphl_In_rises_Out_falls		30.12p
+	fallTime(VT("/Out") 1.1 nil 0 nil 10 90 nil "time")		42.17p
+	riseTime(VT("/Out") 0 nil 1.1 nil 10 90 nil "time")		42.24p
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Fri Feb 20 02:14:57 2026 
