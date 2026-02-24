@@ -43,10 +43,13 @@
 					<output>n1_n2
 						<evalType>point</evalType>
 					</output>
+					<output>Power
+						<evalType>point</evalType>
+					</output>
 				</outputs>
 				<vars>
 					<var>VDD
-						<value>0.5</value>
+						<value>1.1</value>
 					</var>
 				</vars>
 			</test>
