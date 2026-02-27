@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Feb 27 16:23:11 2026 
+Best design point: 1
+Design specs: 
+	AVD_HW3_clock_gater_std_tb_1	corner	Nominal - 
+	Energy		-55.6a
+	Energy_Std		21.41f
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Fri Feb 27 16:23:36 2026 
